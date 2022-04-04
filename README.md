@@ -3,7 +3,7 @@ This exercise provides the idea how to extract data from web page. I scraped dat
  
 ## Acknowledgement
 This exercise is for Coursera course (Python for Data Science, AI and Development) (https://www.coursera.org/learn/python-for-applied-data-science-ai). 
-Thanks to Coursera for arranging this exercise to strengthen our knowledge. This exercise template has been taken from Coursera which is on top of Jupyter lab.
+Thanks to Coursera and IBM for arranging this exercise to strengthen our knowledge. This exercise template has been taken from Coursera which is on top of Jupyter lab.
 
 ## Installation
 This exercise needs Jupyter Lab.
